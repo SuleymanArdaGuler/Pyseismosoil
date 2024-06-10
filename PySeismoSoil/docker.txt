@@ -1,0 +1,2 @@
+c kodda değişiklik yapılırsa
+docker run -e folder_name=medium -e sheet_name=Vs150 -v .:/app seismo
